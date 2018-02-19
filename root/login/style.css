@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Raleway', cursive;
+    text-align:center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: rgba(2,0,1,0.81)
+}
